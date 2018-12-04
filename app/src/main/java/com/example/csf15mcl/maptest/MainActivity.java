@@ -45,5 +45,6 @@ public class MainActivity extends AppCompatActivity {
         }
         ft.replace(R.id.container_frame_back, fragment, tag);
         ft.commitAllowingStateLoss();
+        // change
     }
 }
